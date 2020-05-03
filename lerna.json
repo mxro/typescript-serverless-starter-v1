@@ -1,0 +1,7 @@
+{
+  "npmClient": "yarn",
+  "packages": [
+    "lambdas/*"
+  ],
+  "version": "independent"
+}
