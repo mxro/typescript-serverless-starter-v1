@@ -3,7 +3,7 @@
 
 ---
 
-Note for an up to date take on serverless development with TypeScript, see my open source project [Goldstack](https://goldstack.party/) that allows assembling TypeScript project with a number of serverless modules, for instance for a [Serverless API](https://goldstack.party/templates/serverless-api)
+Note for an up to date take on serverless development with TypeScript, see my open source project [Goldstack](https://goldstack.party/) that allows assembling TypeScript project with a number of serverless modules, for instance for a [Serverless API](https://goldstack.party/templates/serverless-api).
 
 ---
 
