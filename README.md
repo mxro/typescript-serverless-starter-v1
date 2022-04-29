@@ -1,5 +1,12 @@
 # typescript-serverless-starter-v1
 
+
+---
+
+Note for an up to date take on serverless development with TypeScript, see my open source project [Goldstack](https://goldstack.party/) that allows assembling TypeScript project with a number of serverless modules, for instance for a [Serverless API](https://goldstack.party/templates/serverless-api)
+
+---
+
 A starter project for developing serverless applications using TypeScript.
 
 
